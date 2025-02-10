@@ -23,6 +23,8 @@ public class Dispositivo {
 
     }
 
+    //suerte en tu examen de mañana
+
     public Dispositivo(int id) {
         this.id = id;
         this.marca = "";
