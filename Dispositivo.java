@@ -24,6 +24,7 @@ public class Dispositivo {
     }
 
     //suerte en tu examen de mañana
+    //nuevo comentario
 
     public Dispositivo(int id) {
         this.id = id;
